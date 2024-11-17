@@ -1,0 +1,7 @@
+spotipy
+nats-py
+pandas
+snowflake-connector-python
+snowflake-connector-python[pandas]
+yacron
+supervisor
