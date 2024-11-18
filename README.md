@@ -7,7 +7,7 @@ This project is a data pipeline that extracts data from Spotify, transforms it, 
 ## Architecture Diagram
 The architecture diagram below illustrates the overall structure of the data pipeline, including the interaction between the extract, transform, and load components, as well as the role of NATS as the message broker to facilitate data flow.
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture.svg)
 
 
 ## Components
